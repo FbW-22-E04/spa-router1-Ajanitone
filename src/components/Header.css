@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+  padding: 1rem;
+  background: #d0e4f5
+    url("https://image.jimcdn.com/app/cms/image/transf/dimension=126x10000:format=png/path/s5fe5e67b97d82523/image/i7cd8ed96a2a3df9f/version/1641850496/image.png")
+    no-repeat scroll 0% 0%;
+  border-bottom: 7px solid;
+}
+h1 {
+  font-size: 3rem;
+  margin-left: 50px;
+}
+.linkage {
+  margin-left: 10rem;
+}
+.linkage a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: crimson;
+  display: inline-block;
+  margin-left: 20px;
+  font-weight: 500;
+  border-right: 5px solid black;
+}

@@ -1,0 +1,44 @@
+.intro {
+  height: 100vh;
+  background: #d0e4f5 none no-repeat scroll 0% 0%;
+  width: 75%;
+  margin: 0 auto;
+  padding: 3rem;
+}
+
+.intro img {
+  max-width: 300px;
+  border-radius: 45%;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+  display: block;
+  position: relative;
+  left: 40rem;
+}
+h2,
+p {
+  position: relative;
+  left: 45rem;
+  margin-top: 2rem;
+}
+
+.links {
+  width: 60%;
+  margin: 0 auto;
+  padding: 1rem;
+  height: 20rem;
+  border-radius: 1rem;
+  background: #cdedf5 none no-repeat scroll 0 0;
+}
+h3 {
+  position: relative;
+  left: 10rem;
+  text-decoration: underline;
+}
+.links a {
+  margin-left: 2rem;
+  position: relative;
+  left: 10rem;
+  text-decoration: none;
+  color: crimson;
+}
